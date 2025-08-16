@@ -1,4 +1,20 @@
-# Data Science
+# Data Science Roadmap  
+
+## Steps in Data Science
+1. Data Understanding
+2. Data Cleaning
+3. Exploratory Data Analysis (EDA)
+4. Feature Engineering
+5. Encoding (Label Encoding, One-Hot Encoding)
+6. Scaling & Normalization
+7. Train-Test Split
+8. Model Building
+9. Model Evaluation
+10. Hyperparameter Tuning
+11. Model Deployment
+12. Monitoring & Maintenance
+
+---
 
 ## 1. Problem Definition
 - Define the business problem, objectives, scope, and success criteria.
