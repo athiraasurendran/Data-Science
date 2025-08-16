@@ -1,5 +1,47 @@
 # Data Science Roadmap  
 
+---
+
+##  Main Sections  
+
+### 1. Mathematics  
+- Linear Algebra  
+- Calculus  
+- Differential Calculus  
+
+### 2. Statistics  
+- Hypothesis Testing  
+- Probability  
+- Sampling  
+
+### 3. Econometrics  
+- Regression  
+- Time Series Analysis  
+- ARIMA Models  
+
+### 4. Coding  
+- Python Basics  
+- Data Structures & Algorithms  
+- SQL  
+
+### 5. Exploratory Data Analysis (EDA)  
+- Data Cleaning  
+- Data Visualization (Pandas, Seaborn, Matplotlib)  
+
+### 6. Machine Learning  
+- Supervised Learning  
+- Unsupervised Learning  
+- Advanced ML (Ensembles, Neural Networks)  
+
+### 7. Deep Learning  
+- Neural Networks (CNN, RNN, LSTM, Transformers, Attention)  
+
+### 8. MLOps  
+- Model Deployment  
+- CI/CD Pipelines  
+
+---
+
 ## Steps in Data Science
 1. Data Understanding
 2. Data Cleaning
