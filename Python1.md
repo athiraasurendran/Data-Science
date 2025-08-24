@@ -74,9 +74,11 @@
 
 ## Logical Operators
 
-### AND
-### OR
-### NOT
+- and → Both must be True
+
+- or → At least one True
+
+- not → Reverses the result
 
 
 ## Membership Operator
