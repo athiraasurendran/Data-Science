@@ -1,8 +1,12 @@
 # Python Data Types
+
 ## Numeric Type
-### Integer
-### Float
-### Complex
+
+Integer → Whole numbers (e.g., 10, -5)
+
+Float → Decimal numbers (e.g., 3.14, -7.5)
+
+Complex → Numbers with real and imaginary parts (e.g., 2+3j)
 
 ## Text Type
 ### String
