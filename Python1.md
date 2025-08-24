@@ -82,8 +82,10 @@
 
 
 ## Membership Operator
-### IN
-### NOT IN
+
+- in → "a" in "apple" → True
+
+- not in → "z" not in "apple" → True
 
 ## Identity Operator
 ### is
