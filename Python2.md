@@ -86,14 +86,67 @@ while i<=10:
   i = i+1
 ```
 ### Continue
+Skips the current iteration and goes to the next one.
+```python
+for i in range(5):
+    if i == 2:
+        continue
+    print(i)
+# Output: 0, 1, 3, 4  (2 is skipped)
+```
 ### Break
-
+Stops the loop completely.
+```python
+for i in range(5):
+    if i == 3:
+        break
+    print(i)
+# Output: 0, 1, 2  (loop ends when i = 3)
+```
 
 # Basic Library Usage
 ## Keyword library
+Python has a built-in library called keyword that shows reserved words in Python.
+```python
+import keyword
+
+print(keyword.kwlist)  # Shows all Python keywords
+```
 
 # Print formatting
 ## Placeholder passing
+Use {} inside strings and .format() or f-strings to insert values.
+```python
+name = "Athira"
+age = 24
+
+print("My name is {} and I am {} years old.".format(name, age))
+print(f"My name is {name} and I am {age} years old.")  # f-string (newer, easier)
+```
 
 ## Multiline Assignment
+Assign multiple variables in one line.
+```python
+x, y, z = 10, 20, 30
+print(x, y, z)  # 10 20 30
+```
+Assign same value to multiple variables.
+```python
+a = b = c = 5
+print(a, b, c)  # 5 5 5
+```
 ## Line-breaking
+Use \ to break a long line into multiple lines.
+```python
+total = 10 + 20 + 30 + \
+        40 + 50
+print(total)  # 150
+```
+In parentheses, brackets, or braces you don’t need \.
+```python
+numbers = [
+    1, 2, 3,
+    4, 5, 6
+]
+print(numbers)
+```
