@@ -34,6 +34,8 @@ True or False values
 
 ## None Type
 
+Represents “no value” (e.g., x = None)
+
 # Operators in Python
 
 ## Arithmetic Operators
