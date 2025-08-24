@@ -30,6 +30,8 @@ Set → Unordered, unique items, inside {} (e.g., {1, 2, 3})
 
 ## Boolean
 
+True or False values
+
 ## None Type
 
 # Operators in Python
