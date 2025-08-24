@@ -9,6 +9,9 @@ Float → Decimal numbers (e.g., 3.14, -7.5)
 Complex → Numbers with real and imaginary parts (e.g., 2+3j)
 
 ## Text Type
+
+String → Text inside quotes (e.g., "Hello", 'Python')
+
 ### String
 
 ## Sequence Type
