@@ -56,6 +56,8 @@ Represents “no value” (e.g., x = None)
 
 ## Assignment Operator
 
+= Assigns a value → x = 10
+
 ## Comparison Operator
 - \>
 - <
