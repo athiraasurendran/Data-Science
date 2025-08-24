@@ -59,12 +59,18 @@ Represents “no value” (e.g., x = None)
 = Assigns a value → x = 10
 
 ## Comparison Operator
-- \>
-- <
-- \>=
-- <=
-- ==
-- !=
+
+ \> Greater than → 5 > 3
+  
+ < Less than → 3 < 5
+  
+ \>= Greater or equal → 5 >= 5
+  
+  <= Less or equal → 3 <= 5
+  
+ == Equal → 5 == 5
+  
+ != Not equal → 5 != 3
 
 ## Logical Operators
 
