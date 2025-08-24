@@ -26,9 +26,9 @@ Range → Sequence of numbers (e.g., range(5) → 0,1,2,3,4)
 
 Dictionary → Key–value pairs, inside {} (e.g., {"name": "Athira", "age": 24})
 
-### Dictionary
-
 ## Set Type
+
+Set → Unordered, unique items, inside {} (e.g., {1, 2, 3})
 
 ## Boolean
 
