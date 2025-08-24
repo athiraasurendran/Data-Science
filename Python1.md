@@ -12,8 +12,6 @@ Complex → Numbers with real and imaginary parts (e.g., 2+3j)
 
 String → Text inside quotes (e.g., "Hello", 'Python')
 
-### String
-
 ## Sequence Type
 
 List → Ordered, changeable, inside [] (e.g., [1, 2, "apple"])
