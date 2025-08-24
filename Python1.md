@@ -88,5 +88,7 @@
 - not in → "z" not in "apple" → True
 
 ## Identity Operator
-### is
-### is not
+
+- is → Checks if objects are same
+
+- is not → Checks if objects are not same
