@@ -82,6 +82,11 @@ print(MathOps.add(5, 3))    # 8
 ---
 
 ## Object
+
+An object is an instance of a class.
+
+It represents a real-world entity with its own attributes and methods.
+
 ### Creating objects of a particular class
 
 ### Inheritance
