@@ -15,6 +15,19 @@ It defines attributes (data) and methods (functions) that describe the behavior 
 ---
 
 ### Basic Class Definition
+
+```python
+class Person:
+    def __init__(self, name, age):
+        self.name = name   # Instance attribute
+        self.age = age
+
+    def introduce(self):
+        print(f"My name is {self.name} and I am {self.age} years old.")
+
+```
+---
+
 ### Class Attibutes
 ### Class Functions
 
