@@ -51,6 +51,35 @@ print(s2.school_name)  # Output: ABC College
 
 ### Class Functions
 
+Methods are functions defined inside a class.
+
+- Instance Methods → act on individual objects (`self`)
+
+- Class Methods → act on the class (`cls`)
+
+- Static Methods → independent utility functions
+
+```python
+
+class MathOps:
+    def square(self, x):        # Instance method
+        return x * x
+
+    @classmethod
+    def greet(cls):             # Class method
+        return "Hello from class method"
+
+    @staticmethod
+    def add(a, b):              # Static method
+        return a + b
+
+obj = MathOps()
+print(obj.square(4))        # 16
+print(MathOps.greet())      # Hello from class method
+print(MathOps.add(5, 3))    # 8
+
+```
+---
 
 ## Object
 ### Creating objects of a particular class
