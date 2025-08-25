@@ -41,6 +41,19 @@ print(add(5, 3))   # Output: 8
 ```
 ---
 ### Default arguments
+
+You can assign default values to parameters.
+
+```python
+def greet(name="Guest"):
+    print(f"Hello, {name}!")
+
+greet()          # Output: Hello, Guest!
+greet("Athira")  # Output: Hello, Athira!
+
+```
+---
+
 ### kwargs
 
 ### Function return values
