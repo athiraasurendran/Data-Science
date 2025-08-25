@@ -29,6 +29,26 @@ class Person:
 ---
 
 ### Class Attibutes
+
+Class attributes are shared across all objects of the class.
+
+```python
+class Student:
+    school_name = "ABC College"   # Class attribute
+
+    def __init__(self, name):
+        self.name = name          # Instance attribute
+
+s1 = Student("Athira")
+s2 = Student("Anu")
+
+print(s1.school_name)  # Output: ABC College
+print(s2.school_name)  # Output: ABC College
+
+```
+
+---
+
 ### Class Functions
 
 
