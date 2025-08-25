@@ -56,4 +56,17 @@ greet("Athira")  # Output: Hello, Athira!
 
 ### kwargs
 
+`kwargs` lets you pass a variable number of keyword arguments.
+
+```python
+
+def student_info(**kwargs):
+    for key, value in kwargs.items():
+        print(f"{key}: {value}")
+
+student_info(name="Athira", age=24, course="Data Science")
+
+```
+---
+
 ### Function return values
