@@ -70,3 +70,19 @@ student_info(name="Athira", age=24, course="Data Science")
 ---
 
 ### Function return values
+
+Functions can return one or more values using the `return` statement.
+
+```python
+
+def calculate(a, b):
+    sum_val = a + b
+    diff_val = a - b
+    return sum_val, diff_val
+
+s, d = calculate(10, 5)
+print("Sum:", s)       # Output: Sum: 15
+print("Difference:", d) # Output: Difference: 5
+
+```
+---
