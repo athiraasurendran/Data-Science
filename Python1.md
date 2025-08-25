@@ -40,19 +40,19 @@
 
 ## Arithmetic Operators
 
-- ( + Addition) → 5 + 3 = 8
+- `+ Addition` → 5 + 3 = 8
 
-- ( - Subtraction) → 5 - 3 = 2
+- `- Subtraction` → 5 - 3 = 2
 
-- ( * Multiplication) → 5 * 3 = 15
+- `* Multiplication` → 5 * 3 = 15
 
-- ( / Division) → 5 / 2 = 2.5
+- `/ Division` → 5 / 2 = 2.5
 
-- ( % Modulus) → remainder → 5 % 2 = 1
+- `% Modulus` → remainder → 5 % 2 = 1
 
-- ( ** Exponent) → power → 2 ** 3 = 8
+- `** Exponent` → power → 2 ** 3 = 8
 
-- ( // Floor Division) → whole number only → 5 // 2 = 2
+- `// Floor Division` → whole number only → 5 // 2 = 2
 
 ## Assignment Operator
 
