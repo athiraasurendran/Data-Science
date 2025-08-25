@@ -99,3 +99,30 @@ p1.introduce()
 ```
 ---
 ### Inheritance
+
+Inheritance allows a class (child) to acquire properties and methods of another class (parent).
+
+```python
+class Animal:
+    def sound(self):
+        print("Animals make different sounds")
+
+class Dog(Animal):   # Dog inherits from Animal
+    def sound(self):
+        print("Bark! Bark!")
+
+d = Dog()
+d.sound()  # Output: Bark! Bark!
+
+```
+---
+
+- Class = Blueprint
+
+- Object = Instance of class
+
+- Supports Encapsulation, Inheritance, Polymorphism, Abstraction
+
+- Makes code more modular, reusable, and organized
+
+---
