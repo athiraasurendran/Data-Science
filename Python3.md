@@ -19,6 +19,15 @@ Python provides many ready-to-use functions such as:
 ---
 
 ## Custom Functions
+
+You can define your own functions using the `def` keyword.
+
+```python
+def greet():
+    print("Hello, welcome to Python!")
+```
+---
+
 ### Function arguments
 ### Default arguments
 ### kwargs
