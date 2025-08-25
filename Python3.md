@@ -29,6 +29,17 @@ def greet():
 ---
 
 ### Function arguments
+
+Functions can accept inputs (parameters).
+
+```python
+def add(a, b):
+    return a + b
+
+print(add(5, 3))   # Output: 8
+
+```
+---
 ### Default arguments
 ### kwargs
 
