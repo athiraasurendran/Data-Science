@@ -87,6 +87,15 @@ An object is an instance of a class.
 
 It represents a real-world entity with its own attributes and methods.
 
+---
+
 ### Creating objects of a particular class
 
+```python
+p1 = Person("Athira", 24)
+p1.introduce()  
+# Output: My name is Athira and I am 24 years old.
+
+```
+---
 ### Inheritance
