@@ -22,6 +22,14 @@ np.median(data) # 30.0
 ```
 
  - Mode
+
+ Most frequently occurring value.
+
+ ```python
+stats.mode(data, keepdims=True)[0][0] # 10
+
+# (if tie, lowest value is returned)
+```
  - Percentile
  - Quartiles (Q1, Q2, Q3)
  - Interquartile range (IQR = Q3 - Q1)
