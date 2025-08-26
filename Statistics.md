@@ -37,10 +37,35 @@ Value below which a given % of data falls.
 ```python
 np.percentile(data, 90) # 90th percentile
 ```
- - Quartiles (Q1, Q2, Q3)
+- Quartiles (Q1, Q2, Q3)
+
+Q1: 25th percentile
+```python
+Q1 = np.percentile(data, 25)
+```
+  
+Q2: Median
+  
+Q3: 75th percentile
+
+```python
+Q3 = np.percentile(data, 75)
+```
+
  - Interquartile range (IQR = Q3 - Q1)
+   ```python
+   IQR = Q3 - Q1
+   ```
+   
  - Min
+  ```python
+np.min(data)
+```
  - Max
+```pyhton
+np.max(data)
+```
+---
 
 ## Finding outliers using Quartiles
  - Lower Bound (Q1-1.5*IQR)
