@@ -4,7 +4,8 @@
 
 - Mean
 
- Average of all values.
+Average of all values.
+
 ```python
 data = [10, 20, 30, 40, 50]
 ```
@@ -13,7 +14,7 @@ data = [10, 20, 30, 40, 50]
 np.mean(data) # 30.0
 ```
 
- - Median
+- Median
 
 Middle value when data is sorted.
 
@@ -21,7 +22,7 @@ Middle value when data is sorted.
 np.median(data) # 30.0
 ```
 
- - Mode
+- Mode
 
  Most frequently occurring value.
 
@@ -30,7 +31,7 @@ stats.mode(data, keepdims=True)[0][0] # 10
 
 # (if tie, lowest value is returned)
 ```
- - Percentile
+- Percentile
 
 Value below which a given % of data falls.
 
@@ -45,6 +46,7 @@ Q1 = np.percentile(data, 25)
 ```
   
 Q2: Median
+
   
 Q3: 75th percentile
 
@@ -52,16 +54,16 @@ Q3: 75th percentile
 Q3 = np.percentile(data, 75)
 ```
 
- - Interquartile range (IQR = Q3 - Q1)
-   ```python
-   IQR = Q3 - Q1
-   ```
+- Interquartile range (IQR = Q3 - Q1)
+```python
+IQR = Q3 - Q1
+```
    
- - Min
-  ```python
+- Min
+```python
 np.min(data)
 ```
- - Max
+- Max
 ```pyhton
 np.max(data)
 ```
