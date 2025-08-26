@@ -31,6 +31,12 @@ stats.mode(data, keepdims=True)[0][0] # 10
 # (if tie, lowest value is returned)
 ```
  - Percentile
+
+Value below which a given % of data falls.
+
+```python
+np.percentile(data, 90) # 90th percentile
+```
  - Quartiles (Q1, Q2, Q3)
  - Interquartile range (IQR = Q3 - Q1)
  - Min
