@@ -6,12 +6,21 @@
 
  Average of all values.
 ```python
-import numpy as np
 data = [10, 20, 30, 40, 50]
+```
+
+```python
 np.mean(data) # 30.0
 ```
 
  - Median
+
+Middle value when data is sorted.
+
+```python
+np.median(data) # 30.0
+```
+
  - Mode
  - Percentile
  - Quartiles (Q1, Q2, Q3)
