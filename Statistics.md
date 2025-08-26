@@ -1,6 +1,16 @@
 # Descriptive Statistics
+
 ## Measures of central tendency
- - Mean
+
+- Mean
+
+ Average of all values.
+```python
+import numpy as np
+data = [10, 20, 30, 40, 50]
+np.mean(data) # 30.0
+```
+
  - Median
  - Mode
  - Percentile
