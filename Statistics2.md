@@ -2,12 +2,18 @@
 
 Inferential statistics helps us make **predictions and decisions about a population** based on data from a sample.
 
+---
+
+
 ## Why do we need Inferential Statistics? 
 - Correlation Vs. Causation
 - Controlled Experiment
     - Examples 
         - A/B Testing
         - Medical Trials
+
+---
+
 
 ## Population
 
@@ -67,6 +73,8 @@ Similar to stratified sampling, but instead of random selection, the researcher 
 
 Example: Surveying 50 men and 50 women by picking whoever is available.
 
+---
+
 
 ### Sampling Distribution
 
@@ -81,6 +89,9 @@ Example: Surveying 50 men and 50 women by picking whoever is available.
 - Central Limit Theorem (CLT)
     - [Online stats visualization](https://onlinestatbook.com/stat_sim/sampling_dist/)
     - If you take many samples from a population and calculate their averages, those averages will form a bell-shaped curve (normal distribution), even if the original data isn’t bell-shaped. This is useful because it lets us make predictions about the population.
+
+---
+
 
 ## Hypothesis Testing
 ### Null Hypothesis
