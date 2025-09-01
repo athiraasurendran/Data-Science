@@ -69,10 +69,15 @@ Example: Surveying 50 men and 50 women by picking whoever is available.
 
 
 ### Sampling Distribution
-- Probability distribution
-- Area under the curve
-- Gaussian distribution and Normal distribution
-- Sampling Distribution of the Mean
+
+- Probability distribution → Shows how probabilities are distributed over values.
+
+- Area under the curve → Represents probabilities.
+
+- Gaussian distribution and Normal distribution  → Bell-shaped distribution.
+  
+- Sampling Distribution of the Mean → Distribution of sample means.
+  
 - Central Limit Theorem (CLT)
     - [Online stats visualization](https://onlinestatbook.com/stat_sim/sampling_dist/)
     - If you take many samples from a population and calculate their averages, those averages will form a bell-shaped curve (normal distribution), even if the original data isn’t bell-shaped. This is useful because it lets us make predictions about the population.
