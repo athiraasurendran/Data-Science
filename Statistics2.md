@@ -122,6 +122,26 @@ Hypothesis testing is a statistical method used to make decisions or draw conclu
    - If **p-value ≥ α** → Fail to reject $H_0$ (not enough evidence against $H_0$).  
 
 ---
+
+## Example
+A company claims its chocolate bar weighs 50g.  
+We take a sample and find the average = 49.5g.  
+- $H_0$: μ = 50  
+- $H_1$: μ ≠ 50  
+- α = 0.05  
+
+If the p-value = 0.02 → Reject $H_0$ (evidence that the bars don’t weigh exactly 50g).  
+
+---
+
+## Key Terms
+- **Type I Error (False Positive):** Rejecting $H_0$ when it is true.  
+- **Type II Error (False Negative):** Failing to reject $H_0$ when it is false.  
+- **One-tailed Test:** Tests for effect in **one direction only**.  
+- **Two-tailed Test:** Tests for effect in **both directions**.  
+
+---
+
 ### Null Hypothesis
 ### Alternate Hypothesis
 ### Significance Level (α)
