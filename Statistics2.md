@@ -24,6 +24,9 @@ A smaller subset of the population used for analysis.
 - A well-chosen sample allows us to generalize results to the population.
   
 #### Sampling bias
+
+When the sample does not represent the population correctly.
+
 #### Types of sampling
 ### Sampling Distribution
 - Probability distribution
