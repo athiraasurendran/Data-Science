@@ -28,6 +28,46 @@ A smaller subset of the population used for analysis.
 When the sample does not represent the population correctly.
 
 #### Types of sampling
+
+Sampling is the process of selecting a small group (sample) from a large population to study and make conclusions.
+
+1. Random Sampling
+
+Every member of the population has an equal chance of being chosen.
+
+Example: Picking names from a hat.
+
+2. Systematic Sampling
+
+Select every kth member from a list after a random start.
+
+Example: Choosing every 10th person from a queue.
+
+3. Stratified Sampling
+
+Population is divided into groups (strata) based on characteristics (like age, gender, income), and samples are taken from each group.
+
+Example: If a class has 60 girls and 40 boys, we take 6 girls and 4 boys to keep proportion.
+
+4. Cluster Sampling
+
+Population is divided into clusters (groups), and entire clusters are randomly selected.
+
+Example: Randomly selecting 3 schools in a city and surveying all students in those schools.
+
+5. Convenience Sampling
+
+Selecting people who are easiest to reach.
+
+Example: Asking your friends for a survey because they are nearby.
+
+6. Quota Sampling
+
+Similar to stratified sampling, but instead of random selection, the researcher chooses until a quota is filled.
+
+Example: Surveying 50 men and 50 women by picking whoever is available.
+
+
 ### Sampling Distribution
 - Probability distribution
 - Area under the curve
