@@ -10,7 +10,11 @@ Inferential statistics helps us make **predictions and decisions about a populat
         - Medical Trials
 
 ## Population
+
+The entire group we are interested in studying.
+
 ## Sample
+
 ### Why do we need sampling ?
 #### Sampling bias
 #### Types of sampling
