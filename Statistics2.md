@@ -94,6 +94,34 @@ Example: Surveying 50 men and 50 women by picking whoever is available.
 
 
 ## Hypothesis Testing
+
+Hypothesis testing is a statistical method used to make decisions or draw conclusions about a population based on sample data.
+
+1. **State the Null Hypothesis ($H_0$):**  
+   - Assumes there is **no effect** or **no difference**.  
+   - Example: "The average weight of a chocolate bar is 50g."
+
+2. **State the Alternate Hypothesis ($H_1$):**  
+   - Assumes there **is an effect** or **a difference**.  
+   - Example: "The average weight of a chocolate bar is not 50g."
+
+3. **Choose Significance Level ($\alpha$):**  
+   - Probability of rejecting $H_0$ when it is true (Type I error).  
+   - Common values:  
+     - 0.05 (5% chance of error – business, social sciences)  
+     - 0.01 (1% chance of error – medicine, pharma)  
+
+4. **Select the Test and Calculate the Test Statistic:**  
+   - Z-test, T-test, Chi-Square, ANOVA (depends on data and problem).  
+
+5. **Find the P-value:**  
+   - The probability of getting results as extreme as the sample, assuming $H_0$ is true.  
+
+6. **Decision Rule:**  
+   - If **p-value < α** → Reject $H_0$ (evidence supports $H_1$).  
+   - If **p-value ≥ α** → Fail to reject $H_0$ (not enough evidence against $H_0$).  
+
+---
 ### Null Hypothesis
 ### Alternate Hypothesis
 ### Significance Level (α)
