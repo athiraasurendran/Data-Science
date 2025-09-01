@@ -1,5 +1,7 @@
 # Inferential Statistics
 
+Inferential statistics helps us make **predictions and decisions about a population** based on data from a sample.
+
 ## Why do we need Inferential Statistics? 
 - Correlation Vs. Causation
 - Controlled Experiment
