@@ -142,11 +142,30 @@ If the p-value = 0.02 → Reject $H_0$ (evidence that the bars don’t weigh exa
 
 ---
 
-### Null Hypothesis
-### Alternate Hypothesis
+### Null Hypothesis ($H_0$)
+
+Assumes no effect or no difference.
+
+Example: "Average chocolate bar weight = 50g."
+
+### Alternate Hypothesis ($H_1$)
+
+Assumes there is an effect or difference.
+
+Example: "Average chocolate bar weight ≠ 50g."
+
 ### Significance Level (α)
+
+Probability of rejecting $H_0$ when true (Type I error).
+
 - Typically used values are 0.05 (e.g. e-commerce  ) and 0.01 (e.g in fileds like medicine)
+  
 ### P-value
+
+Probability of obtaining results as extreme as the sample if $H_0$ is true.
+
+---
+
 
 # Major Statistical Tests
 ## Z-test
