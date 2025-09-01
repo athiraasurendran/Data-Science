@@ -15,6 +15,8 @@ The entire group we are interested in studying.
 
 ## Sample
 
+A smaller subset of the population used for analysis.
+
 ### Why do we need sampling ?
 #### Sampling bias
 #### Types of sampling
