@@ -18,6 +18,11 @@ The entire group we are interested in studying.
 A smaller subset of the population used for analysis.
 
 ### Why do we need sampling ?
+
+- Studying an entire population is expensive and time-consuming.
+  
+- A well-chosen sample allows us to generalize results to the population.
+  
 #### Sampling bias
 #### Types of sampling
 ### Sampling Distribution
