@@ -1,3 +1,6 @@
 # Types of features
+
+Features are the columns in a dataset. They are also called variables or attributes.
+
 # Handling missing values
 # Outlier detection
